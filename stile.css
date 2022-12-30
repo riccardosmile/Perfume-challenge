@@ -1,0 +1,38 @@
+
+img{
+    flex 1;
+    width: 20%;
+    border-top-left-radius: 10pt;
+    border-bottom-left-radius: 10pt;
+    height: 373px;
+}
+
+.column2{
+    background-color: white;
+    font-size: 14px;
+    width: 20%;
+    flex 1;
+    border-top-right-radius: 10pt;
+    border-bottom-right-radius: 10pt;
+    height: fit-content;
+}
+p{
+    line-height: 1.5;
+}
+h1{
+    line-height: 0.9;
+}
+button{
+    background-color:hsl(158, 36%, 37%);
+    width: 210px;
+    height: 40px;
+    border: solid hsl(158, 36%, 37%);
+    border-radius: 10pt;
+    margin-left: 23px;
+    margin-right: 25px;
+    margin-bottom: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
